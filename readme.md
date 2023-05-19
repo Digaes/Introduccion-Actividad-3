@@ -1,10 +1,4 @@
 
-## Trabajo realizado por: 
-Diana Garcia Escorcia.
-
-Introduccion Ingenieria de Sistemas.
-
-NRC: 4519
 
 ---
 
