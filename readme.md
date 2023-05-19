@@ -1,4 +1,4 @@
-# Actividad #3
+
 ## Trabajo realizado por: 
 Diana Garcia Escorcia.
 
